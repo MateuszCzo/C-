@@ -1,0 +1,7 @@
+C:\projects\C#\roman_to_integer\roman_to_integer\bin\Debug\roman_to_integer.exe.config
+C:\projects\C#\roman_to_integer\roman_to_integer\bin\Debug\roman_to_integer.exe
+C:\projects\C#\roman_to_integer\roman_to_integer\bin\Debug\roman_to_integer.pdb
+C:\projects\C#\roman_to_integer\roman_to_integer\obj\Debug\roman_to_integer.csproj.AssemblyReference.cache
+C:\projects\C#\roman_to_integer\roman_to_integer\obj\Debug\roman_to_integer.csproj.CoreCompileInputs.cache
+C:\projects\C#\roman_to_integer\roman_to_integer\obj\Debug\roman_to_integer.exe
+C:\projects\C#\roman_to_integer\roman_to_integer\obj\Debug\roman_to_integer.pdb
