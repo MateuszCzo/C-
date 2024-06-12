@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\projects\\C#\\Invert_binary_tree\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A249D018-10C0-40B2-8D75-1141A27D1600}|Invert_binary_tree\\Invert_binary_tree.csproj|c:\\projects\\c#\\invert_binary_tree\\invert_binary_tree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A249D018-10C0-40B2-8D75-1141A27D1600}|Invert_binary_tree\\Invert_binary_tree.csproj|solutionrelative:invert_binary_tree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\projects\\C#\\Invert_binary_tree\\Invert_binary_tree\\Program.cs",
+              "RelativeDocumentMoniker": "Invert_binary_tree\\Program.cs",
+              "ToolTip": "C:\\projects\\C#\\Invert_binary_tree\\Invert_binary_tree\\Program.cs",
+              "RelativeToolTip": "Invert_binary_tree\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAAB0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T20:35:52.811Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
