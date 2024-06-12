@@ -1,0 +1,7 @@
+C:\projects\C#\course\course\bin\Debug\course.exe.config
+C:\projects\C#\course\course\bin\Debug\course.exe
+C:\projects\C#\course\course\bin\Debug\course.pdb
+C:\projects\C#\course\course\obj\Debug\course.csproj.AssemblyReference.cache
+C:\projects\C#\course\course\obj\Debug\course.csproj.CoreCompileInputs.cache
+C:\projects\C#\course\course\obj\Debug\course.exe
+C:\projects\C#\course\course\obj\Debug\course.pdb
