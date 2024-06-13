@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\projects\\C#\\validate_binary_search_tree\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFAB2224-3BA8-484D-967E-9985A9534224}|validate_binary_search_tree\\validate_binary_search_tree.csproj|c:\\projects\\c#\\validate_binary_search_tree\\validate_binary_search_tree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFAB2224-3BA8-484D-967E-9985A9534224}|validate_binary_search_tree\\validate_binary_search_tree.csproj|solutionrelative:validate_binary_search_tree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\projects\\C#\\validate_binary_search_tree\\validate_binary_search_tree\\Program.cs",
+              "RelativeDocumentMoniker": "validate_binary_search_tree\\Program.cs",
+              "ToolTip": "C:\\projects\\C#\\validate_binary_search_tree\\validate_binary_search_tree\\Program.cs",
+              "RelativeToolTip": "validate_binary_search_tree\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T08:06:41.446Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
